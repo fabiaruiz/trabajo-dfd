@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+64
+'nota de los 3 cortes del semestre y cuantas inasistencias tuvo'
+5
+1
+10
+c1,c2,c3,a
+6
+2
+4
+suma
+8
+c1+c2+c3
+5
+total
+6
+suma/3
+7
+0
+1
+17
+total>3.0 and a<4
+4
+1
+17
+'pierde semestre'
+13
+4
+1
+15
+'pasa semestre'
+13
+1

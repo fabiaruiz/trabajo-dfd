@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+14
+'edad y valor'
+5
+1
+10
+edad,valor
+6
+1
+5
+total
+5
+valor
+7
+0
+1
+20
+edad>60 or valor>500
+4
+1
+20
+'no tiene descuento'
+4
+1
+5
+total
+13
+4
+1
+17
+'tiene descuento'
+6
+2
+4
+desc
+9
+valor*0.4
+5
+total
+10
+valor-desc
+4
+1
+5
+total
+13
+1
